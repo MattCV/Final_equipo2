@@ -34,6 +34,7 @@
    (https://github.com/MattCV/Final_equipo2.git)
    %cd Final_equipo2
    !ls -la
+```
 
 ## Declaración de uso de IA
 
