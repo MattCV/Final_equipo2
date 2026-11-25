@@ -27,7 +27,7 @@
 ## En Google Colab
 
 1. Abre [Google Colab](https://colab.research.google.com/) e inicia sesión con tu cuenta de Google.
-2. 2. Crea un notebook nuevo y clona el repositorio en la primera celda para descargar `analisis.ipynb` y la carpeta `datos` (`insurance.csv`):
+2. Crea un notebook nuevo y clona el repositorio en la primera celda para descargar `analisis.ipynb` y la carpeta `datos` (`insurance.csv`):
 
 ```bash
    !git clone [https://github.com/MattCV/Final_equipo2.git]
